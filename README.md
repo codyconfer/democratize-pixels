@@ -55,7 +55,7 @@
 - [GitJournal](https://gitjournal.io/fdroid/repo) | `https://gitjournal.io/fdroid/repo`
 > fingerprint: * E2 EE 4A A4 38 0F 0D 3B 3C F8 1E B1 7F 5E 48 F8 27 C3 AA 77 12 2D 9A D3 30 CC 44 16 50 89 45 74
 
-##### accrecent
+##### accrescent
 
 > a small, curated app store with a privacy focus
 

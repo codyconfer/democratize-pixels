@@ -28,7 +28,7 @@ _recommendations:_
 - [FUTO](https://app.futo.org/fdroid/repo) | `https://app.futo.org/fdroid/repo`
 > fingerprint: * 39 D4 78 69 D2 9C BF CE 46 91 D9 F7 E6 94 6A 7B 6D 7E 6F F4 88 34 97 E6 E6 75 74 4E CD FA 6D 6D
 
-- [KDE Android](https://cdn.kde.org/android/stable-releases/fdroid/repo) |`https://cdn.kde.org/android/stable-releases/fdroid/repo`
+- [KDE Android](https://cdn.kde.org/android/stable-releases/fdroid/repo) | `https://cdn.kde.org/android/stable-releases/fdroid/repo`
 > fingerprint: * 13 78 4B A6 C8 0F F4 E2 18 1E 55 C5 6F 96 1E ED 58 44 CE A1 68 70 D3 B3 8D 58 78 0B 85 E1 15 8F
 
 - [IzzyOnDroid](https://apt.izzysoft.de/fdroid/repo) | `https://apt.izzysoft.de/fdroid/repo`

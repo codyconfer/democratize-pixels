@@ -20,7 +20,7 @@
 - [setup an f-droid repo](https://f-droid.org/en/docs/Setup_an_F-Droid_App_Repo/)
 - [a more comprehensive list](https://github.com/userkilled/FDroid-List-Repository)
 
-_recommendations:_
+###### _recommendations:_
 
 - [Guardian Project](https://guardianproject.info/fdroid/repo) | `https://guardianproject.info/fdroid/repo`
 > fingerprint: * B7 C2 EE FD 8D AC 78 06 AF 67 DF CD 92 EB 18 12 6B C0 83 12 A7 F2 D6 F3 86 2E 46 01 3C 7A 61 35

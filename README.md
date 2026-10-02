@@ -11,6 +11,9 @@
 #### Alternate app stores
 
 ##### f-droid
+
+> an app store with an extendable repo standard
+
 - [f-froid 2.0](https://www.apkmirror.com/apk/f-droid-limited/f-droid/f-droid-2-0-0-release/) or [f-droid self listing (old version)](https://f-droid.org/packages/org.fdroid.fdroid)
 
 ###### alt f-droid repos
@@ -53,6 +56,9 @@
 > fingerprint: * E2 EE 4A A4 38 0F 0D 3B 3C F8 1E B1 7F 5E 48 F8 27 C3 AA 77 12 2D 9A D3 30 CC 44 16 50 89 45 74
 
 ##### accrecent
+
+> a small, curated app store with a privacy focus
+
 - [accrescent app store](https://accrescent.app/)
 
 #### Play store replacement

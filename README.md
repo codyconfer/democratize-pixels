@@ -2,7 +2,7 @@
 
 ## Level 1: Replacement Apps
 
-> Replacement apps and services that can be installed on an existing device from an alternative app store
+> Replacement apps and services that can be installed on an existing device from an alternate app store
 
 ---
 

@@ -14,7 +14,7 @@
 
 > an app store with an extendable repo standard
 
-- [f-froid 2.0](https://www.apkmirror.com/apk/f-droid-limited/f-droid/f-droid-2-0-0-release/) or [f-droid self listing (old version)](https://f-droid.org/packages/org.fdroid.fdroid)
+- [f-droid 2.0](https://www.apkmirror.com/apk/f-droid-limited/f-droid/f-droid-2-0-0-release/) or [f-droid self listing (old version)](https://f-droid.org/packages/org.fdroid.fdroid)
 
 ###### alt f-droid repos
 

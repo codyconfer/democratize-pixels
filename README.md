@@ -20,7 +20,6 @@
 
 > Alt repos add more apps to f-droid's catalog 
 
-- [setup an f-droid repo](https://f-droid.org/en/docs/Setup_an_F-Droid_App_Repo/)
 - [a more comprehensive list](https://github.com/userkilled/FDroid-List-Repository)
 
 ###### _recommendations:_

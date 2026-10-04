@@ -77,6 +77,8 @@
 
 - replace google keyboard with [FUTO keyboard](https://keyboard.futo.tech/) _available in f-droid with alt repo_
 
+- replace pixel launcher with lawnchair _available in f-droid with Izzy alt repo_
+
 - replace chrome with ironfox
 
 - replace google maps with organic maps
